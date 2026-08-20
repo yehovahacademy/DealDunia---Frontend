@@ -1,12 +1,5 @@
 import { Link } from "react-router-dom";
-import {
-    Facebook,
-    Instagram,
-    Twitter,
-    Youtube,
-    Mail,
-    Phone,
-} from "lucide-react";
+import {Mail, Phone, Globe, MessageCircle} from "lucide-react";
 import "./Footer.css";
 
 function Footer() {
