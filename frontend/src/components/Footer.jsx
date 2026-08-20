@@ -21,19 +21,19 @@ function Footer() {
 
                     <div className="footer-socials">
                         <a href="#" aria-label="Facebook">
-                            <Facebook size={19} />
+                            <Globe size={19} />
                         </a>
 
                         <a href="#" aria-label="Instagram">
-                            <Instagram size={19} />
+                            <Phone size={19} /> 
                         </a>
 
                         <a href="#" aria-label="Twitter">
-                            <Twitter size={19} />
+                            <Mail size={19} />
                         </a>
 
                         <a href="#" aria-label="YouTube">
-                            <Youtube size={19} />
+                            <MessageCircle size={19} />
                         </a>
                     </div>
                 </div>
