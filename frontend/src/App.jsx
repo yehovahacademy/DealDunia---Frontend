@@ -5,6 +5,7 @@ import Products from "./Pages/Products";
 import Cart from "./Pages/Cart";
 import Login from "./Pages/Login";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import "./App.css";
 
 
 function App() {
