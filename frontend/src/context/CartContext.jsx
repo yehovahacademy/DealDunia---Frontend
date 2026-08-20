@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import { Search, ShoppingCart, User } from "lucide-react";
-import "./Navbar.css";
 
 function Navbar() {
     return (
